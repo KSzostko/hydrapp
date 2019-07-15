@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maciejkorsan/hydrapp.git"
+    "url": "git+https://github.com/KSzostko/hydrapp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/maciejkorsan/hydrapp/issues"
+    "url": "https://github.com/KSzostko/hydrapp/issues"
   },
-  "homepage": "https://github.com/maciejkorsan/hydrapp#readme",
+  "homepage": "https://github.com/KSzostko/hydrapp#readme",
   "devDependencies": {
     "@babel/cli": "^7.4.4",
     "@babel/core": "^7.4.4",
