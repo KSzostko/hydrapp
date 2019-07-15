@@ -37,13 +37,20 @@ body {
 .button {
     position: fixed;
     left: 50%;
+    padding: 10px;
+    font-size: 14px;
     transform: translateX(-50%);
+    border-radius: 10px;
 
     &--add {
         top: 70%;
+        background-color: #fff;
     }
 
     &--remove {
-        top: 80%;
+        top: 82%;
+        border: 1px solid #fff;
+        background-color: transparent;
+        color: #fff;
     }
 }
